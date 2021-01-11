@@ -1,0 +1,1 @@
+{"ast":null,"code":"function teste() {\n  alert('oi');\n}","map":{"version":3,"sources":["C:/dev/next/proj/pages/index.js"],"names":["teste","alert"],"mappings":"AACA,SAASA,KAAT,GAAiB;AAGbC,EAAAA,KAAK,CAAC,IAAD,CAAL;AAEH","sourcesContent":["\r\nfunction teste() {\r\n\r\n\r\n    alert('oi')\r\n\r\n}"]},"metadata":{},"sourceType":"script"}

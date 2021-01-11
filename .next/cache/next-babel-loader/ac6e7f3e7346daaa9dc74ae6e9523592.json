@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function teste() {\n  alert('oi');\n}","map":{"version":3,"sources":["C:/dev/next/proj/pages/index.js"],"names":["teste","alert"],"mappings":"AACA,eAAe,SAASA,KAAT,GAAiB;AAG5BC,EAAAA,KAAK,CAAC,IAAD,CAAL;AAEH","sourcesContent":["\r\nexport default function teste() {\r\n\r\n\r\n    alert('oi')\r\n\r\n}"]},"metadata":{},"sourceType":"module"}
